@@ -15,7 +15,7 @@ Pada artikel ini, akan dijelaskan bagaimana cara menginstall Interpreter pada Wi
 ## Windows
 
 - Tahap pertama adalah mengecek terlebih dahulu apakah di Windows kalian sudah ada python interpreter atau belum.
-  Caranya adalah buka cmd promt, tinggal search saja di search bar
+  Caranya adalah buka cmd prompt, tinggal search saja di search bar
   ![image](https://github.com/imvlaboratory/sg-basic-python/assets/51825907/33b9e963-da9f-4956-bf06-dc1f6f4b4c1b)
 
   Jika sudah maka ketikan command: "python" pada command prompt pc/laptop anda.
@@ -33,6 +33,8 @@ Akan tetapi pada tutorial kali ini, kita akan menginstal Python versi 3.10 serie
 lalu scroll kebawah sampai ketemu python 3.10.4 lalu pilih download
 ![image](https://github.com/imvlaboratory/sg-basic-python/assets/51825907/71529940-fcf0-4fd3-a903-021faa4f3325)
 lalu scroll lagi kebawah samapi ketemu windows installer, pilih 32 atau 64 tergantung system kalian. Kenapa pakai windows installer?? karena mudah dibanding harus menggunakan terminal atau command prompt untuk pembelajaran awal.
+![image](https://github.com/imvlaboratory/sg-basic-python/assets/51825907/49944028-5d0e-4958-9170-ad9fbc7f4c62)
+Setelah itu buka lokasi file download kalian dan run installernya. The rest is piece of cake lah.
 
 
 
