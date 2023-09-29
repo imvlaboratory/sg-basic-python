@@ -30,17 +30,27 @@ Dapat di download dari link berikut : https://www.python.org/
 
 -Kemudian tinggal pilih menu download dan pilih versi mana yang ingin diinstall. Umumnya gunakanlah versi python terbaru, tetapi untuk beberapa versi windows yang lama dapat menggunakan versi python sebelumnya (PC IMV menggunakan python versi 3.10.4 karena beberapa alasan). 
 Akan tetapi pada tutorial kali ini, kita akan menginstal Python versi 3.10 series dikarenakan beberapa alasan yang kalau dijelaskan nanti kalian pusing wkwk. -Tinggal klik bagian "All Releases" maka kalian akan diarahkan ke page berikut:
+
 ![image](https://github.com/imvlaboratory/sg-basic-python/assets/51825907/b6fdedad-0779-4c3e-a72a-6714b52b175c)
+
 lalu scroll kebawah sampai ketemu python 3.10.4 lalu pilih download
+
 ![image](https://github.com/imvlaboratory/sg-basic-python/assets/51825907/71529940-fcf0-4fd3-a903-021faa4f3325)
+
 -lalu scroll lagi kebawah samapi ketemu windows installer, pilih 32 atau 64 tergantung system kalian. Kenapa pakai windows installer?? karena mudah dibanding harus menggunakan terminal atau command prompt untuk pembelajaran awal.
+
 ![image](https://github.com/imvlaboratory/sg-basic-python/assets/51825907/49944028-5d0e-4958-9170-ad9fbc7f4c62)
+
 -Setelah itu buka lokasi file download kalian dan run installernya. The rest is piece of cake lah.
+
 ![image](https://github.com/imvlaboratory/sg-basic-python/assets/51825907/0562eb0e-67e0-4547-8e84-d268e76a0fbc)
+
 -jangan lupa diklik yang add to PATH nya yak, biar nanti ga ribet kedepannya.
 Untuk instalasi bebas ya mau yang install now atau custom install
 -Abis itu tunggu sampai selesai, jika sudah akan muncul seperti ini
+
 ![image](https://github.com/imvlaboratory/sg-basic-python/assets/51825907/a6ad2457-d6c4-4f53-9fa2-2ce9945f4c07)
+
 Sehabis itu kalian harus cek di Command prompt kalian dengan step yang sama seperti step pengecekan awal
 Kalian juga bisa coba untuk menjalankan perintah python langsung di Command Prompt dengan cara mengetik "python" di cmd dan silahkan coba sendiri
 kalau mau coba sih bisa ngikutin seperti yang di gambar:
@@ -48,6 +58,7 @@ a=10
 b=5
 c=1*b
 print(c)
+
 ![image](https://github.com/imvlaboratory/sg-basic-python/assets/51825907/4823e969-39ac-48db-a26c-b8e75377e105)
 
 -UDAH DEH KELARR
