@@ -37,15 +37,15 @@ lalu scroll kebawah sampai ketemu python 3.10.4 lalu pilih download
 
 ![image](https://github.com/imvlaboratory/sg-basic-python/assets/51825907/71529940-fcf0-4fd3-a903-021faa4f3325)
 
--lalu scroll lagi kebawah samapi ketemu windows installer, pilih 32 atau 64 tergantung system kalian. Kenapa pakai windows installer?? karena mudah dibanding harus menggunakan terminal atau command prompt untuk pembelajaran awal.
+- lalu scroll lagi kebawah samapi ketemu windows installer, pilih 32 atau 64 tergantung system kalian. Kenapa pakai windows installer?? karena mudah dibanding harus menggunakan terminal atau command prompt untuk pembelajaran awal.
 
 ![image](https://github.com/imvlaboratory/sg-basic-python/assets/51825907/49944028-5d0e-4958-9170-ad9fbc7f4c62)
 
--Setelah itu buka lokasi file download kalian dan run installernya. The rest is piece of cake lah.
+- Setelah itu buka lokasi file download kalian dan run installernya. The rest is piece of cake lah.
 
 ![image](https://github.com/imvlaboratory/sg-basic-python/assets/51825907/0562eb0e-67e0-4547-8e84-d268e76a0fbc)
 
--jangan lupa diklik yang add to PATH nya yak, biar nanti ga ribet kedepannya.
+jangan lupa diklik yang add to PATH nya yak, biar nanti ga ribet kedepannya.
 Untuk instalasi bebas ya mau yang install now atau custom install
 -Abis itu tunggu sampai selesai, jika sudah akan muncul seperti ini
 
