@@ -13,10 +13,24 @@ Berdasarkan cara menjalankan kode program, bahasa pemrograman dapat dibagi menja
 Pada artikel ini, akan dijelaskan bagaimana cara menginstall Interpreter pada Windows, MacOs, dan Linux
 
 ## Windows
-Tahap pertama untuk menginstall python pada windows anda adalah mendownload file pythone release for windows terlebih dahulu.
-Dapat di download dari ![link](https://www.python.org/)
+
+- Tahap pertama adalah mengecek terlebih dahulu apakah di Windows kalian sudah ada python interpreter atau belum.
+  Caranya adalah buka cmd promt, tinggal search saja di search bar
+  ![image](https://github.com/imvlaboratory/sg-basic-python/assets/51825907/33b9e963-da9f-4956-bf06-dc1f6f4b4c1b)
+
+  Jika sudah maka ketikan command: "python" pada command prompt pc/laptop anda.
+  ![image](https://github.com/imvlaboratory/sg-basic-python/assets/51825907/3082e366-44a1-42fa-86ad-f6822185c314)
+  Jika muncul keterangan pada gambar, maka python sudah ada. Python yang terinstall dapat dilihat pada command prompt. Pada contoh ini adalah versi 3.10.4 terinstall pada laptop seorang asisten yang mager update interpreter pythonnya.
+
+- Tahap berikutnya untuk menginstall python pada windows anda adalah mendownload file pythone release for windows terlebih dahulu.
+Dapat di download dari link berikut : https://www.python.org/
 
 ![image](https://github.com/imvlaboratory/sg-basic-python/assets/51825907/95edc0fc-f3da-434e-a7f1-ff496b3e0e9e)
+
+Kemudian tinggal pilih menu download dan pilih versi mana yang ingin diinstall. Umumnya gunakanlah versi python terbaru, tetapi untuk beberapa versi windows yang lama dapat menggunakan versi python sebelumnya (Mostly laptop dan PC IMV sih menggunakan python versi 3.10.4).
+
+
+<!-- Ini vito wkwkwk-->
 
 <!-- TODO: create a tutorial how to install python on Windows -->
 
