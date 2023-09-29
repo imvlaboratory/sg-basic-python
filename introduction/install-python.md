@@ -13,6 +13,10 @@ Berdasarkan cara menjalankan kode program, bahasa pemrograman dapat dibagi menja
 Pada artikel ini, akan dijelaskan bagaimana cara menginstall Interpreter pada Windows, MacOs, dan Linux
 
 ## Windows
+Tahap pertama untuk menginstall python pada windows anda adalah mendownload file pythone release for windows terlebih dahulu.
+Dapat di download dari ![link](https://www.python.org/)
+
+![image](https://github.com/imvlaboratory/sg-basic-python/assets/51825907/95edc0fc-f3da-434e-a7f1-ff496b3e0e9e)
 
 <!-- TODO: create a tutorial how to install python on Windows -->
 
