@@ -27,7 +27,17 @@ Dapat di download dari link berikut : https://www.python.org/
 
 ![image](https://github.com/imvlaboratory/sg-basic-python/assets/51825907/95edc0fc-f3da-434e-a7f1-ff496b3e0e9e)
 
-Kemudian tinggal pilih menu download dan pilih versi mana yang ingin diinstall. Umumnya gunakanlah versi python terbaru, tetapi untuk beberapa versi windows yang lama dapat menggunakan versi python sebelumnya (Mostly laptop dan PC IMV sih menggunakan python versi 3.10.4).
+Kemudian tinggal pilih menu download dan pilih versi mana yang ingin diinstall. Umumnya gunakanlah versi python terbaru, tetapi untuk beberapa versi windows yang lama dapat menggunakan versi python sebelumnya (PC IMV menggunakan python versi 3.10.4 karena beberapa alasan). 
+Akan tetapi pada tutorial kali ini, kita akan menginstal Python versi 3.10 series dikarenakan beberapa alasan yang kalau dijelaskan nanti kalian pusing wkwk. Tinggal klik bagian "All Releases" maka kalian akan diarahkan ke page berikut:
+![image](https://github.com/imvlaboratory/sg-basic-python/assets/51825907/b6fdedad-0779-4c3e-a72a-6714b52b175c)
+lalu scroll kebawah sampai ketemu python 3.10.4 lalu pilih download
+![image](https://github.com/imvlaboratory/sg-basic-python/assets/51825907/71529940-fcf0-4fd3-a903-021faa4f3325)
+lalu scroll lagi kebawah samapi ketemu windows installer, pilih 32 atau 64 tergantung system kalian. Kenapa pakai windows installer?? karena mudah dibanding harus menggunakan terminal atau command prompt untuk pembelajaran awal.
+
+
+
+
+
 
 
 <!-- Ini vito wkwkwk-->
