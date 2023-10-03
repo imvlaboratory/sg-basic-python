@@ -68,6 +68,13 @@ print(c)
 <!-- TODO: create a tutorial how to install python on Windows -->
 
 ## MacOS
+- Menginstall Python di Mac OS dapat diawali dengan mengecek terlebih dahulu status python di terminal.
+caranya adalah dengan menekan command + spacebar dan kemudian ketik "terminal" lalu enter dan terminal akan terbuka.
+
+
+- Kemudian ketik command "python --version", komputer akan memeriksa versi python yang terinstall pada mac anda.
+
+- Jika tidak ada python yang terinstall, maka anda dapat mendownload python di website resminya, jangan lupa kita menggunakan python versi 3.10.4
 
 <!-- TODO: create a tutorial how to install python on Windows -->
 
