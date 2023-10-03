@@ -73,8 +73,11 @@ caranya adalah dengan menekan command + spacebar dan kemudian ketik "terminal" l
 
 
 - Kemudian ketik command "python --version", komputer akan memeriksa versi python yang terinstall pada mac anda.
+![image](https://github.com/imvlaboratory/sg-basic-python/assets/51825907/87d52b8e-e9f8-46c3-a096-f43fb2d41bbe)
+
 
 - Jika tidak ada python yang terinstall, maka anda dapat mendownload python di website resminya, jangan lupa kita menggunakan python versi 3.10.4
+![Screenshot from 2023-10-03 09-04-58](https://github.com/imvlaboratory/sg-basic-python/assets/51825907/927d6e2f-c7eb-42fc-930b-f9eaf8b83bac)
 
 <!-- TODO: create a tutorial how to install python on Windows -->
 
