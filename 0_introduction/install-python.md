@@ -75,8 +75,13 @@ print(c)
 - Jika tidak ada python yang terinstall, maka anda dapat mendownload python di website resminya, jangan lupa kita menggunakan python versi 3.10.4
   ![Screenshot from 2023-10-03 09-04-58](https://github.com/imvlaboratory/sg-basic-python/assets/51825907/927d6e2f-c7eb-42fc-930b-f9eaf8b83bac)
 
+- Selanjutnya buka file yang didownload lalu run seperti app biasa.
+- Lakukan instalasi pythonnya
+- Kemudian check lagi pada terminal dengan command yang sama ("python --version")
+
 <!-- TODO: create a tutorial how to install python on Windows -->
 
 ## Linux
 
 Buat user linux, silahkan cari sendiri ya :D, masa bisa pake linux tapi gak bisa install python :p
+notes: biasanya sih udah ada python bawaan Linux, tinggal cek mandiri aja yak wkwk
