@@ -355,7 +355,7 @@ Python memiliki berbagai macam tipe data, yang dapat dikelompokkan menjadi dua k
       'umur': 78,
       'is_married': True,
       'tinggi_badan': 309.62,
-      'laboratorium': ('Daskom','IMV')
+      'laboratorium': ('Daskom','IMV'),
       'murid': {
         'nama': 'Ridwan Maulana Tanjung',
         'alamat': 'Perumahan Bogor Ogah Geser Blok B1, No 7',
