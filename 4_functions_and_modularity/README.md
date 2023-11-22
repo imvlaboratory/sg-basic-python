@@ -48,7 +48,7 @@ def multiply(x, y):
 print(result) # ERROR! result hanya berlaku dalam fungsi 'multiply'
 ```
 
-### Lambda Functions
+## Lambda Functions
 
 Fungsi lambda, yang juga dikenal sebagai fungsi anonim, adalah cara untuk membuat fungsi kecil tanpa perlu memberikannya nama. Fungsi ini didefinisikan menggunakan kata kunci lambda diikuti oleh parameter-parameter dan ekspresi yang harus dievaluasi. Lambda biasanya digunakan untuk membuat fungsi sederhana untuk keperluan yang sementara atau dalam situasi di mana fungsi kecil diperlukan
 

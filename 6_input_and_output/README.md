@@ -75,7 +75,7 @@ with open('file.txt', 'r') as file:
 
 Pandas adalah salah satu pustaka Python yang sangat populer untuk analisis data, dan menyediakan fungsi untuk membaca dan menulis data dari dan ke berbagai format file, termasuk CSV (Comma-Separated Values). Berikut adalah cara membaca dan menulis file dari dan ke DataFrame Pandas ke file CSV:
 
-### Membaca file CSV ke DataFrame
+### Membaca file ke DataFrame
 
 ```python
 import pandas as pd
@@ -89,7 +89,7 @@ print(df.head())
 
 Pada contoh di atas, `pd.read_csv('nama_file.csv')` digunakan untuk membaca data dari file CSV ke dalam sebuah DataFrame. Fungsi `head() `kemudian digunakan untuk menampilkan beberapa baris pertama dari DataFrame tersebut.
 
-### Menulis DataFrame ke File CSV
+### Menulis DataFrame ke File
 
 ```python
 import pandas as pd

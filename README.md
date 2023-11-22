@@ -63,11 +63,57 @@ Guido van Rossum tetap menjadi pencipta dan "Benevolent Dictator for Life" (BDFL
 
 ## Topik Basic Python
 
-- [Enviroment Setup] (./0_environment_setup/README.md)
-- [Basic Syntax] (./1_basic_syntax/README.md)
-- [Data Types] (./2_data_types/README.md)
-- [Control Structures] (./3_control_structures/README.md)
-- [Functions and Modularity] (./4_function_and_modularity/README.md)
-- [Data Structures] (./5_data_structures/README.md)
-- [Input and Output] (./6_input_and_output/README.md)
-- [Error Handling] (./7_error_handling/README.md)
+- [Enviroment Setup](0_environment_setup/README.md)
+
+  - [Menginstall Python](0_environment_setup/README.md#menginstall-python-interpreter)
+    - [Windows](0_environment_setup/README.md#windows)
+    - [MacOs](0_environment_setup/README.md#macos)
+    - [Linux](0_environment_setup/README.md#linux)
+
+- [Basic Syntax](1_basic_syntax/README.md)
+
+  - [Comment](1_basic_syntax/README.md#comment)
+  - [Indentasi](1_basic_syntax/README.md#indentasi)
+  - [Variabel](1_basic_syntax/README.md#variabel)
+  - [Statement](1_basic_syntax/README.md#statement)
+    - [Assignment Statement](1_basic_syntax/README.md#assignment-statement)
+    - [Arithmetic Statement](1_basic_syntax/README.md#arithmetic-statement)
+    - [Comparison Statement](1_basic_syntax/README.md#comparison-statement)
+    - [Logical Statement](1_basic_syntax/README.md#logical-statement)
+
+- [Data Types](2_data_types/README.md)
+
+  - [Tipe Data Primitif](2_data_types/README.md#tipe-data-primitif)
+  - [Tipe Data Kompleks](2_data_types/README.md#tipe-data-kompleks)
+
+- [Control Structures](3_control_structures/README.md)
+
+  - [Conditional Statement](3_control_structures/README.md#pernyataan-kondisional-conditional-statements)
+  - [Conditional Statement](3_control_structures/README.md#pernyataan-perulangan-loop-statements)
+
+- [Functions and Modularity](4_functions_and_modularity/README.md)
+
+  - [Higher Order Function](4_functions_and_modularity/README.md#higher-order-functions)
+    - [Parameter dan Return Value](4_functions_and_modularity/README.md#parameter-dan-return-values)
+    - [Function Scope](4_functions_and_modularity/README.md#function-scope)
+  - [Lambda Function](4_functions_and_modularity/README.md#lambda-functions)
+  - [Modularity](4_functions_and_modularity/README.md#modularity)
+
+- [Data Structures](5_data_structures/README.md)
+
+  - [Indexing dan Slicing ](5_data_structures/README.md#indexing-dan-slicing)
+  - [List Comprehensions](5_data_structures/README.md#list-comprehensions)
+
+- [Input and Output](6_input_and_output/README.md)
+
+  - [Standar Input and Output](6_input_and_output/README.md#standar-input-dan-output)
+  - [Membaca dan Menulis File](6_input_and_output/README.md#membaca-dan-menulis-file)
+  - [Membaca File ke DataFrame](6_input_and_output/README.md#membaca-file-ke-dataframe)
+  - [Menulis DataFrane ke File](6_input_and_output/README.md#menulis-dataframe-ke-file)
+
+- [Error Handling](7_error_handling/README.md)
+  - [Try dan Except](7_error_handling/README.md#try-dan-except)
+  - [Finally](7_error_handling/README.md#finally)
+  - [Menangkap Beberapa Jenis Error](7_error_handling/README.md#menangkap-beberapa-jenis-error)
+  - [Penggunaan `as` Untuk Informasi Error](7_error_handling/README.md#penggunaan-as-untuk-informasi-error)
+  - [Raise](7_error_handling/README.md#raise)
