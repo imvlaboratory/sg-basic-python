@@ -131,14 +131,15 @@ else:
 
   Arithmetic statement digunakan untuk melakukan operasi aritmatika. Operator aritmatika yang tersedia di Python adalah sebagai berikut:
 
-  | Operator | Keterangan  |
-  | -------- | ----------- |
-  | `x`      | penjumlahan |
-  | `-`      | Pengurangan |
-  | `*`      | Perkalian   |
-  | `/`      | Pembagian   |
-  | `%`      | Modulus     |
-  | `**`     | exponensial |
+  | Operator | Keterangan        |
+  | -------- | ----------------- |
+  | `x`      | penjumlahan       |
+  | `-`      | Pengurangan       |
+  | `*`      | Perkalian         |
+  | `/`      | Pembagian         |
+  | `//`     | Pembagian Kebawah |
+  | `%`      | Modulus           |
+  | `**`     | exponensial       |
 
   contoh:
 
